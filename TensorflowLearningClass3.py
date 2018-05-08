@@ -8,3 +8,5 @@ if __name__ == "__main__":
     with tf.Session() as sess:
         print(sess.run(hello))
         sess.close()
+
+#这是一个测试更改，看github上是否有正确的修改
